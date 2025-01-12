@@ -1,1 +1,3 @@
-print("hello world)
+str=input(" ")
+str=str.lower()
+print(str)
